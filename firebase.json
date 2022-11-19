@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "Trade",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
